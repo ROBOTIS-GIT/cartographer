@@ -37,7 +37,7 @@
 
   <author email="thlim@robotis.com">Darby Lim</author>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>cmake</buildtool_depend>
 
   <build_depend>g++-static</build_depend>
   <build_depend>google-mock</build_depend>
